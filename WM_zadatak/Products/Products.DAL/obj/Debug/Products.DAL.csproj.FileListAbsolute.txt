@@ -1,0 +1,17 @@
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\bin\Debug\Products.DAL.dll.config
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\bin\Debug\Products.DAL.dll
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\bin\Debug\Products.DAL.pdb
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\bin\Debug\AutoMapper.dll
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\bin\Debug\EntityFramework.dll
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\bin\Debug\AutoMapper.pdb
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\bin\Debug\AutoMapper.xml
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\bin\Debug\EntityFramework.xml
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\bin\Debug\System.ValueTuple.xml
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\obj\Debug\Products.DAL.csprojAssemblyReference.cache
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\obj\Debug\Products.DAL.csproj.CoreCompileInputs.cache
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\obj\Debug\Products.DAL.csproj.CopyComplete
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\obj\Debug\Products.DAL.dll
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.DAL\obj\Debug\Products.DAL.pdb

@@ -1,0 +1,17 @@
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\bin\Debug\Products.BL.dll
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\bin\Debug\Products.BL.pdb
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\bin\Debug\AutoMapper.dll
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\bin\Debug\Products.DAL.dll
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\bin\Debug\System.ValueTuple.dll
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\bin\Debug\EntityFramework.dll
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\bin\Debug\Products.DAL.pdb
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\bin\Debug\Products.DAL.dll.config
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\bin\Debug\AutoMapper.pdb
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\bin\Debug\AutoMapper.xml
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\bin\Debug\System.ValueTuple.xml
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\bin\Debug\EntityFramework.xml
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\obj\Debug\Products.BL.csprojAssemblyReference.cache
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\obj\Debug\Products.BL.csproj.CoreCompileInputs.cache
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\obj\Debug\Products.BL.csproj.CopyComplete
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\obj\Debug\Products.BL.dll
+C:\Users\neda.isakovic\Downloads\products-app-master\products-app-master\Products\Products.BL\obj\Debug\Products.BL.pdb
